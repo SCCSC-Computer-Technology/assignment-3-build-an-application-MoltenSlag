@@ -1,0 +1,15 @@
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\bin\Debug\StateDatabase.mdf
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\bin\Debug\StateDatabase_log.ldf
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\bin\Debug\AlexGann-CPT-206-Lab-2.exe.config
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\bin\Debug\AlexGann-CPT-206-Lab-2.exe
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\bin\Debug\AlexGann-CPT-206-Lab-2.pdb
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\obj\Debug\AlexGann-CPT-206-Lab-2.csproj.AssemblyReference.cache
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\obj\Debug\AlexGann_CPT_206_Lab_2.Form1.resources
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\obj\Debug\AlexGann_CPT_206_Lab_2.Properties.Resources.resources
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\obj\Debug\AlexGann-CPT-206-Lab-2.csproj.GenerateResource.cache
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\obj\Debug\AlexGann-CPT-206-Lab-2.csproj.CoreCompileInputs.cache
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\obj\Debug\AlexGann-CPT-206-Lab-2.csproj.CopyComplete
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\obj\Debug\AlexGann-CPT-206-Lab-2.exe
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\obj\Debug\AlexGann-CPT-206-Lab-2.pdb
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\bin\Debug\DatabaseQueryLibrary.pdb
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\bin\Debug\DatabaseQueryLibrary.dll.config
